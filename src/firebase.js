@@ -2,7 +2,7 @@ import firebase from 'firebase'
 
 const firebaseConfig = {
     apiKey: "AIzaSyC4Ag_qCxtA43BaJTiGS1FX8yRWuB0qfAE",
-    // authDomain: "discord-clone-b219e.firebaseapp.com",
+    authDomain: "discord-clone-b219e.firebaseapp.com",
     projectId: "discord-clone-b219e",
     storageBucket: "discord-clone-b219e.appspot.com",
     messagingSenderId: "152080203711",
